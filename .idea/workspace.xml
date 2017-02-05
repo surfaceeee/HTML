@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c300b92c-b735-4e35-8c0e-b09cb82d19e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15无序列表练习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16无序列表练习2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,12 +24,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="15无序列表练习.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="15无序列表练习.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15无序列表练习.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="342">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16无序列表练习2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16无序列表练习2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+              <folding>
+                <element signature="n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +80,7 @@
         <option value="$PROJECT_DIR$/13锚点.html" />
         <option value="$PROJECT_DIR$/14无序列表.html" />
         <option value="$PROJECT_DIR$/15无序列表练习.html" />
+        <option value="$PROJECT_DIR$/16无序列表练习2.html" />
       </list>
     </option>
   </component>
@@ -253,12 +267,12 @@
       <workItem from="1485045954030" duration="1080000" />
       <workItem from="1485093201780" duration="1883000" />
       <workItem from="1485132448385" duration="854000" />
-      <workItem from="1486284989771" duration="808000" />
+      <workItem from="1486284989771" duration="1540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15562000" />
+    <option name="totallyTimeSpent" value="16294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,13 +316,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03DTD文档说明/DTD文档声明.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03DTD文档说明/DTD文档声明补充.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -590,9 +597,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15无序列表练习.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="342">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16无序列表练习2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
