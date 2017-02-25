@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>
+    1.水平方向上的单元格合并 <br>
+    可以给td标签添加一个colspan属性，来指定某一个单元格当做多个单元格来看待，由于把某一个单元格当做了多个单元格来看待，所以就会多出一些单元格，需要删掉 <br>
+    2、垂直方向上的单元格合并 <br>
+    可以给td标签添加一个rowspan属性，来指定某一个单元格当做多个单元格来看待，由于把某一个单元格当做了多个单元格来看待，所以就会多出一些单元格，需要删掉(垂直方向) <br>
+</p>
+<p>
+    <table bgcolor="black" width="500px" height="300px" align="center">
+        <tr bgcolor="white">
+            <td colspan="2"></td>
+            <td></td>
+        </tr>
+        <tr bgcolor="white">
+            <td></td>
+            <td></td>
+            <td rowspan="2"></td>
+        </tr>
+        <tr bgcolor="white">
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</p>
+</body>
+</html>
