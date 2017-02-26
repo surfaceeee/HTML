@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c300b92c-b735-4e35-8c0e-b09cb82d19e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28表单标签-input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/29表单标签2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -71,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="28表单标签-input.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="28表单标签-input.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/28表单标签-input.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="186">
+              <caret line="31" column="55" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="31" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="29表单标签2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/29表单标签2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -140,6 +150,7 @@
         <option value="$PROJECT_DIR$/27单元格合并练习.html" />
         <option value="$PROJECT_DIR$/28表单标签.html" />
         <option value="$PROJECT_DIR$/28表单标签-input.html" />
+        <option value="$PROJECT_DIR$/29表单标签2.html" />
       </list>
     </option>
   </component>
@@ -338,12 +349,12 @@
       <workItem from="1487597697577" duration="4421000" />
       <workItem from="1488010938569" duration="3403000" />
       <workItem from="1488092753650" duration="2434000" />
-      <workItem from="1488112615685" duration="3578000" />
+      <workItem from="1488112615685" duration="5542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50449000" />
+    <option name="totallyTimeSpent" value="52413000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,13 +398,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04H标签-P标签-Hr标签.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld.html" />
     <entry file="file://$PROJECT_DIR$/02字符集问题/字符集问题.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -679,18 +683,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/28表单标签-input.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20定义列表练习.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28表单标签-input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="31" column="55" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="31" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29表单标签2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="27" />
           <folding />
         </state>
       </provider>

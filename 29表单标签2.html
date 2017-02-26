@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="http://www.520it.com">
+        账号：<input type="text" name="userName"> <br>
+        <!--暗文输入框-->
+        密码：<input type="password" name="pwd"> <br>
+        <input type="button" value="我是按钮" onclick="alert(123);">
+        <input type="image" src="src/1.png" onclick="alert(321);" width="100px" height="100px"> <br>
+        重置表单提交的数据 <br>
+        <input type="reset" value="清空"> <br>
+
+        要想把表单中填写好的数据提交到远程服务器，必须具备两个条件：<br>
+        1、需要给form表单添加一个action的属性，通过这个action属性指定需要提交的服务器地址 <br>
+        2、需要给提交到服务器的表单元素添加一个name属性
+        <input type="submit"> <br>
+
+
+        隐藏域：配合提交按钮将一些数据悄悄的提交到服务器<br>
+        <input type="hidden" name="hidden" value="hahaha">
+    </form>
+</body>
+</html>
