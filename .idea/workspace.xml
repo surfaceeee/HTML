@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c300b92c-b735-4e35-8c0e-b09cb82d19e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/26单元格合并.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27单元格合并练习.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28表单标签-input.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -50,24 +49,34 @@
       <file leaf-file-name="26单元格合并.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/26单元格合并.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="361">
+              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="27单元格合并练习.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="27单元格合并练习.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/27单元格合并练习.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="399">
+              <caret line="95" column="7" lean-forward="false" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
               <folding>
                 <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#table#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#table#3;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="28表单标签-input.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/28表单标签-input.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,6 +138,8 @@
         <option value="$PROJECT_DIR$/25表格的结构.html" />
         <option value="$PROJECT_DIR$/26单元格合并.html" />
         <option value="$PROJECT_DIR$/27单元格合并练习.html" />
+        <option value="$PROJECT_DIR$/28表单标签.html" />
+        <option value="$PROJECT_DIR$/28表单标签-input.html" />
       </list>
     </option>
   </component>
@@ -325,12 +336,14 @@
       <workItem from="1487408125218" duration="4983000" />
       <workItem from="1487516099972" duration="49000" />
       <workItem from="1487597697577" duration="4421000" />
-      <workItem from="1488010938569" duration="2924000" />
+      <workItem from="1488010938569" duration="3403000" />
+      <workItem from="1488092753650" duration="2434000" />
+      <workItem from="1488112615685" duration="3578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43958000" />
+    <option name="totallyTimeSpent" value="50449000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,13 +387,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03DTD文档说明/DTD文档声明补充.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04H标签-P标签-Hr标签.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -652,32 +658,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20定义列表练习.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/26单元格合并.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="361">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/27单元格合并练习.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="399">
+          <caret line="95" column="7" lean-forward="false" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
           <folding>
             <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#table#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#table#3;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28表单标签-input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20定义列表练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>
+        1.什么是表单? <br>
+        表单好就是专门收集用户信息的 <br>
+    </p>
+    <p>
+        2.什么是表单元素？ <br>
+        2.1什么是元素？ <br>
+        在HTML中标签/标记/元素都是指HTML中的标签 <br>
+        表单元素还是HTML中的一些标签，只不过这些标签比较特殊，在浏览器中所有的表单标签都有特殊的外观和默认的功能 <br>
+    </p>
+    <p>
+        3.表单的格式 <br>
+        form <br>
+            < 表单元素 ><br>
+        /form <br>
+    </p>
+    <p>
+        4.常见的表单元素 <br>
+        input中type属性， 有很多类型的取值，取值的不同就决定了input标签的功能和外观<br>
+        <form action="">
+            value属性设置默认值，而不是placeHolder <br>
+            <!--明文输入框-->
+            账号：<input type="text" value="haha"> <br>
+            <!--暗文输入框-->
+            密码：<input type="password" value="123"> <br>
+
+            1.单选框，默认情况下是不互斥的，要想满足互斥，单选框必须设置相同的name属性 <br>
+            2.要想让单选框默认选中某一个框子，那么可以给input标签添加一个checked属性 <br>
+            3.如果属性的名称和取值一样，可以只写一个，HTML中比如checked <br>
+            <input type="radio" name="sex" checked="checked">男
+            <input type="radio" name="sex">女 <br>
+
+            多选框 <br>
+            爱好：
+            <input type="checkbox" checked="checked">篮球
+            <input type="checkbox">足球
+            <input type="checkbox">棒球
+        </form>
+    </p>
+</body>
+</html>
