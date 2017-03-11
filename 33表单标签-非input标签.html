@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style text="text/css">
+        textarea {
+            resize: none;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        1.select标签：用于定义下拉列表,不需要绑定，本身就是一个可以直接显示的控件 <br>
+        特点：<br>
+        1.下拉列表不能输入内容，但是可以直接在列表中选择内容 <br>
+        2.可以通过给option标签添加一个selected属性来指定列表的默认值 <br>
+        3.可以给option标签包裹一层optgroup来给下拉列表中的数据分类 <br>
+        <select name="" id="">
+            <option>北京</option>
+            <option>上海</option>
+            <option selected="selected">武汉</option>
+        </select>
+    </p>
+    <p>
+        <select name="" id="">
+            <optgroup label="武汉">
+                <option>武昌</option>
+                <option>洪山</option>
+                <option selected="selected">江夏</option>
+            </optgroup>
+            <optgroup label="北京">
+                <option>海淀</option>
+                <option>朝阳</option>
+                <option>石景山</option>
+            </optgroup>
+        </select>
+    </p>
+    <p>
+        2.textarea标签 <br>
+        作用：定义一个多行的输入框 <br>
+        注意点：默认情况下输入框可以无限换行并且有默认宽高度(30列文字) <br>
+        可以通过cols和rows来指定输入框的高度和宽度，不过虽然指定了列数和行数，但是还是可以无限往下输入 <br>
+        默认情况下，输入框可以手动拉伸,可以通过上面的css来控制
+        <textarea name="" id="" cols="3" rows="10"></textarea>
+    </p>
+</body>
+</html>
