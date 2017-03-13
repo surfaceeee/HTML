@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+//由于视频数据很重要，所以五大浏览器厂商都不愿意支持别人的视频格式，所以导致了没有一种视频格式是所有浏览器都支持的，w3c推出第二种video标签来解决这个问题 <br>
+video标签的第二种格式存在的意义就是为了解决浏览器适配问题，video元素支持三种视频格式，我们可以把这三种格式都用过source标签指定给video标签，那么以后当浏览器就从这个三种中选择一种支持的格式播放
+<video autoplay="autoplay">
+    <source src="src/Test.webm" type="video/webm"> </source>
+    <source src="src/Test.mp4" type="video/mp4"> </source>
+    <source src="src/Test.ogg" type="video/ogg"> </source>
+</video>
+</body>
+</html>
